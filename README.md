@@ -1,1 +1,2 @@
 this project includes the python code which will scrape the stock data from www.merolagani.com website and compare the market price and its book value
+pleasse install required modules from requirement.txt and run the code as we run the python files.
